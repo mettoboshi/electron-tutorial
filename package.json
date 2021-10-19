@@ -6,6 +6,9 @@
   "repository": "git@github.com:mettoboshi/electron-tutorial.git",
   "author": "mettoboshi",
   "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
   "devDependencies": {
     "electron": "^15.2.0"
   }
