@@ -13,6 +13,9 @@ function createWindow () {
   })
 
   win.loadFile('index.html')
+
+  // デベロッパー ツールを開きます。
+  // win.webContents.openDevTools()
 }
 
 app.whenReady().then(() => {
