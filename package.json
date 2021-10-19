@@ -5,5 +5,8 @@
   "main": "main.js",
   "repository": "git@github.com:mettoboshi/electron-tutorial.git",
   "author": "mettoboshi",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.2.0"
+  }
 }
